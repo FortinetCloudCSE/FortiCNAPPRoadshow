@@ -1,13 +1,13 @@
 {
-  "repoName":"UserRepo",
-  "author":"Jeff Kopko",
-  "workshopTitle":"Hugo for Fortinet TECWorkshops",
-  "themeVariant":"Workshop",
+  "repoName":"FortiCNAPPRoadshow",
+  "author":"Adam Larson, Shaun Dolan",
+  "workshopTitle":"FortiCNAPP Enablement Roadshow",
+  "themeVariant":"UseCase",
   "logoBannerText":"",
   "logoBannerSubText":"",
   "errorLevel":"warning",
   "googleServicesID":"G-5RZBH288ST",
-  "marketingCode": "MGO12345",
+  "marketingCode": "CSECNAPPEnablementFeb25",
   "shortcuts": [
   {
     "text": "Fortinet Cloud CSE GitHub Org",

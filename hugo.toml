@@ -1,7 +1,7 @@
 # this is a required setting for this theme to appear on https://themes.gohugo.io/
 # change this to a value appropriate for you; if your site is served from a subdirectory
 # set it like "https://example.com/mysite/"
-baseURL = "https://fortinetcloudcse.github.io/UserRepo"
+baseURL = "https://fortinetcloudcse.github.io/FortiCNAPPRoadshow"
 
 languageCode = "en-US"
 defaultContentLanguage = "en"
@@ -23,7 +23,7 @@ uglyURLs = true     # true -> basic/index.html -> basic.html
 # use this theme ;-)
 theme = ["hugo-theme-relearn"]
 
-title = "Hugo for Fortinet TECWorkshops"
+title = "FortiCNAPP Enablement Roadshow"
 
 # We disable this for testing the exampleSite; you must do so too
 # if you want to use the themes parameter disableGeneratorVersion=true;
@@ -79,7 +79,7 @@ enableEmoji = true
   # Change default color scheme with a variant
   # Fortinet specific variants are: "Workshop", "UseCase", "Demo", "Spotlight", "FortinetSilver", "FortinetTeal", "Xperts2024".  These change the top left logo background & add Text under the Logo
   # For added variants, please contact fortinetcloudcse@fortinet.com
-  themeVariant = "Workshop"
+  themeVariant = "UseCase"
 
   # Optional, By Default, the logo banner will match the Text from themeVariant Above
   # If you would like to change the primary logo banner text, uncommenet logoBannerText Parameter and set to desired text.
@@ -88,7 +88,7 @@ enableEmoji = true
   
 
   # Optional parameter to set Marketing/Event code per repo from repoConfig.json
-  marketingCode = "MGO12345"
+  marketingCode = "CSECNAPPEnablementFeb25"
 
   # Shows a checkmark for visited pages on the menu
   showVisitedLinks = true
@@ -183,7 +183,7 @@ enableEmoji = true
 
   [params.author]
   # Author of the site, will be used in meta information
-    name = "Jeff Kopko"
+    name = "Adam Larson, Shaun Dolan"
 
 
 [[menu.shortcuts]]
