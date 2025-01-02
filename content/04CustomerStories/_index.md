@@ -1,8 +1,8 @@
 ---
 title: "Customer Stories"
 chapter: false
-linkTitle: "Ch 3: Customer Stories"
-weight: 30
+linkTitle: "Ch 4: Customer Stories"
+weight: 40
 ---
 
 ### Topics

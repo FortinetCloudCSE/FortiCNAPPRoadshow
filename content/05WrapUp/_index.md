@@ -1,8 +1,8 @@
 ---
 title: "Wrap Up"
 chapter: false
-linkTitle: "Ch 4: Wrap Up"
-weight: 40
+linkTitle: "Ch 5: Wrap Up"
+weight: 50
 ---
 
 ### Topics

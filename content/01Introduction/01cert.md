@@ -4,7 +4,7 @@ linkTitle: "What is this certification?"
 weight: 10
 ---
 
-## CentralRepo
+## 
 
 This “Demo Refresh” is aimed at helping you all drive meaningful and relevant conversations
 with our customers. This will differ from previous iterations of demo assets in that it is not
@@ -19,3 +19,17 @@ specific set of feature functionality that will age out quickly.
 Let's dive in and enhance your product demonstration skills to drive successful sales
 outcomes.
 
+{{< quizdown >}}
+
+## In your own words, what is the purpose of a demo?
+1. [X] __________________________________
+
+## What is NOT one of the main problems we have broadly observed with field demos today?
+
+1. [ ] They’re too inconsistent, varying in messaging and value from SE to SE
+2. [ ] They’re too out of date, often missing newer elements of our platform
+3. [X] They’re too feature-driven and oriented around technology rather than
+customer problems
+4. [ ] They cannot answer questions around GCP and Azur
+
+{{< /quizdown >}}

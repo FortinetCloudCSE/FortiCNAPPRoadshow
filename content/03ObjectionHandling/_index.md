@@ -1,8 +1,8 @@
 ---
-title: "Wrap Up"
+title: "Objection Handling"
 chapter: false
-linkTitle: "Ch 4: Wrap Up"
-weight: 40
+linkTitle: "Ch 3: Objection Handling"
+weight: 30
 ---
 
 ### Topics
