@@ -19,7 +19,6 @@ specific set of feature functionality that will age out quickly.
 Let's dive in and enhance your product demonstration skills to drive successful sales
 outcomes.
 
-{{< quizdown >}}
 
 ## In your own words, what is the purpose of a demo?
 1. [X] __________________________________
@@ -32,4 +31,3 @@ outcomes.
 customer problems
 4. [ ] They cannot answer questions around GCP and Azur
 
-{{< /quizdown >}}
